@@ -1,0 +1,40 @@
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form5.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x86\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Form5.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x86\Debug\GenerateResource.write.1.tlog

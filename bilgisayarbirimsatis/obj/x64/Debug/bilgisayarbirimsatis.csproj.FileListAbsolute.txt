@@ -1,0 +1,78 @@
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.GenerateResource.cache
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.CoreCompileInputs.cache
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\Administrator\Desktop\N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.AssemblyReference.cache
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form5.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.GenerateResource.cache
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.CoreCompileInputs.cache
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.AssemblyReference.cache
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form5.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.GenerateResource.cache
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.CoreCompileInputs.cache
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+C:\Users\i-life\OneDrive\Desktop\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe.config
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.exe
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\bin\x64\Debug\bilgisayarbirimsatis.pdb
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.AssemblyReference.cache
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form1.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form2.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form3.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form4.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Form5.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.Properties.Resources.resources
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.GenerateResource.cache
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.csproj.CoreCompileInputs.cache
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.exe
+D:\Ceyda Üçdirhem N.T.P Proje\bilgisayarbirimsatis\bilgisayarbirimsatis\obj\x64\Debug\bilgisayarbirimsatis.pdb
